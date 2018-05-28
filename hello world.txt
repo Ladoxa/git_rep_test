@@ -4,3 +4,4 @@ System.out.println("Hello world");
 Все еще старый hello world
 hello
 println("Hello my dear friends");
+в основно версии поставили !!! в начало
